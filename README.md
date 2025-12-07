@@ -2,7 +2,7 @@
 
 **Machine Learning & Advanced Analytics | CPG Domain | PySpark | Databricks | MMM | ML Engineering**
 
-I build **production-grade ML pipelines** and **analytics solutions** that drive real business impact —  
+I build **production-grade ML** and **analytics solutions** that drive real business impact —  
 from **Market Mix Modeling (MMM)** and **Assortment Optimization** to **Store Clustering**, **Forecasting**, and **Deep Learning** experiments.
 
 ---
